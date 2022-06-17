@@ -16,7 +16,7 @@ namespace InterfaceExercise
         public string Make { get; set; }
         public string Model { get; set; }
         public double Year { get; set; }
-        public bool Wheels { get; set; }
+        public string DriveTrain { get; set; }
     }
 }
 /*Create 2 members that are specific to each class
